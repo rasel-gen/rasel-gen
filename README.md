@@ -3,10 +3,11 @@
 </div-->  
   
 
-### <div align="center">I'm Md Asaduzzaman (Rasel), a  full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Md Asaduzzaman (Rasel), a  full-stack Softare Engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working as CTO at [Nexuslab LLC](https://nexuslab.net)  
+- 🔭 I’m currently working as CTO at [Nexuslab LLC](https://nexuslab.net)
+- - Working As Lead Software Engineer at Next Ai Labs 
   
 
 <br/>  
