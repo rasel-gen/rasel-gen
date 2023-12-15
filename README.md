@@ -31,19 +31,3 @@ Hello, World! I'm Rasel, not just a full-stack Software Engineer, but a digital 
 </div>
 
 ---
-
-📊 **My Epic Stats:**
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rasel-gen&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rasel-gen&&style=flat-square" align="center" />
-</div>
-
----
-
-### <div align="center">🌌 Join me on this cosmic coding journey! 🌌</div>
