@@ -80,5 +80,4 @@ Always expanding my skill set, I'm currently exploring:
 I'm passionate about leveraging technology to create innovative solutions that make a real-world impact. Whether you're a startup looking for technical expertise in AI and blockchain, or an established business aiming to innovate, I'd love to collaborate!
 
 - LinkedIn: [https://www.linkedin.com/in/profrasel/](https://www.linkedin.com/in/profrasel/)
-- Twitter: [@YourTwitterHandle]
 - Email: azamanrsl@gmail.com
