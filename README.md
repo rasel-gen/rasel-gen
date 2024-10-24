@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-With over 9 years of experience in the tech industry, I'm a versatile Full Stack Developer and innovator, specializing in AI integration and blockchain solutions. My passion lies in leveraging cutting-edge technologies to solve complex business challenges and create transformative user experiences.
+With over 10 years of experience in the tech industry, I'm a versatile Full Stack Developer and innovator, specializing in AI integration and blockchain solutions. My passion lies in leveraging cutting-edge technologies to solve complex business challenges and create transformative user experiences.
 
 - **Full Stack Mastery:** I excel in building robust, scalable applications using modern web technologies and best practices.
 - **AI Integration Specialist:** I incorporate advanced AI models to enhance application intelligence and user experience, with a focus on mental health and life coaching solutions.
@@ -13,11 +13,11 @@ With over 9 years of experience in the tech industry, I'm a versatile Full Stack
 ## 🚀 Expertise
 
 - **Full Stack Development:** React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL
-- **AI & Machine Learning:** TensorFlow, PyTorch, OpenAI API, Hugging Face Transformers
-- **Blockchain:** Ethereum, Solidity, Web3.js, Smart Contracts, Consensus Mechanisms
+- **AI & Machine Learning:** TensorFlow, PyTorch, OpenAI,Anthropic, Hugging Face Transformers
+- **Blockchain:** Ethereum,Base,Polygon,Binance Smart Chain, Ton, Solidity, Web3.js, Smart Contracts, Consensus Mechanisms
 - **Cloud Services:** AWS, Google Cloud Platform, Azure
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines
-- **Programming Languages:** JavaScript, TypeScript, Python, Solidity
+- **Programming Languages:** JavaScript, TypeScript, Python, Solidity,RUST, PHP
 
 ## 🏆 Key Achievements
 
@@ -43,12 +43,12 @@ As a Full Stack Developer and Tech Lead across various projects:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Next.js, Vue.js, Angular
-- **Backend:** Node.js, Express.js, Django, Flask
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis
+- **Frontend:** React.js, Next.js, Vue.js, Angular ,Bun
+- **Backend:** Node.js, Express.js, Django, Rust
+- **Databases:** MongoDB, PostgreSQL, MySQL, Redis, VectorDB (Pinecone, HNSWLib, Supabase)
 - **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenAI API
-- **Blockchain:** Ethereum, Solidity, Web3.js, Truffle
+- **AI/ML:** TensorFlow, OpenAI API, Anthropic, Huggingface,Langchain
+- **Blockchain:** Ethereum, EVM's (Binance Smart Chain, Base, Plygon), Ton, Solidity, Web3.js, Truffle, Hardhat
 
 ## 🌟 Signature Projects
 
