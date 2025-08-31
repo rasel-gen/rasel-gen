@@ -89,4 +89,4 @@ I build **Blockchain** (EVMs—Ethereum, BSC, TRON, Polygon, Arbitrum, Optimism,
 **Reach me:**  
 - **LinkedIn:** https://www.linkedin.com/in/profrasel/  
 - **GitHub:** https://github.com/rasel-gen  
-- **Email:** meetrasel247@gmail.com
+- **Email:** asad.rasel99@gmail.com
