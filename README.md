@@ -9,9 +9,10 @@ I build **Blockchain** (EVMs—Ethereum, BSC, TRON, Polygon, Arbitrum, Optimism,
 ## TL;DR
 - **Blockchain:** EVMs (Ethereum, BSC, TRON, Polygon, Arbitrum, Optimism, Avalanche, Base), **Solana**, **Sui** — Launchpads, Tokenomics, Smart Contracts, Exchanges, NFT Markets, Staking, **Custom Chains/L2s**.
 - **Full Stack (Web/SaaS):** Founder of **KwikCommerz** (multi-tenant e-commerce) — subscriptions, payments, analytics, admin ops.
-- **AI:** Image generation + monetization; **agentic AI** (tool use, RAG, evaluators, safety).
+- **AI:** **IXCoach** (AI-driven coaching), image generation + monetization, **agentic AI** (tool use, RAG, evaluators, safety).
 - **Social:** TikTok-style short-video platform (video pipeline, feeds, moderation, growth).
 - **Telegram:** Mini Apps & Bots (wallets, token creation/launch, AI automations, tap-to-earn).
+- **Automation:** AI content writing, scheduling, and **cross-posting** to socials (X, LinkedIn, etc.) with analytics.
 - **Infra:** **Docker/Kubernetes**, CI/CD, observability on **AWS & DigitalOcean**.
 
 ---
@@ -29,8 +30,14 @@ I build **Blockchain** (EVMs—Ethereum, BSC, TRON, Polygon, Arbitrum, Optimism,
 - Architecture: domain-driven design, clean APIs, queues/jobs, usage metering, billing, admin tooling.
 
 ### AI Products
+- **IXCoach (AI-driven coaching):** session memory, safe prompting, evaluator-in-the-loop quality checks, and growth-friendly onboarding.
 - **Image Generation + Monetization:** credits, creator payouts, safety filters, CDN pipelines, anti-abuse.
-- **Agentic Systems:** tool use (web3 RPC, DB, search), **RAG**, evaluators, prompt/version control, latency/cost tracking.
+- **Agentic Systems & Social Media Automation:**  
+  - AI content ideation → drafting → rewriting → hashtags/captions  
+  - Scheduling calendar & queues; approval workflows  
+  - **Cross-posting** to X/Twitter, LinkedIn (and others as needed)  
+  - Auto-threading, link previews, UTM tagging, media pipelines  
+  - Rate-limit–aware posting, retries, webhooks, analytics dashboards
 
 ### Social Platforms
 - **Short-form video:** ingestion/transcoding, ranking feeds, comments/likes, notifications, moderation (hashing/heuristics), creator analytics.
